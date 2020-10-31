@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shadowright123/partnerbot#readme",
   "dependencies": {
+    "discord-xp": "^1.0.6",
     "discord.js": "^12.4.1"
   }
 }
