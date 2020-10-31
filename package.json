@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shadowright123/partnerbot/issues"
   },
-  "homepage": "https://github.com/shadowright123/partnerbot#readme"
+  "homepage": "https://github.com/shadowright123/partnerbot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
 }
